@@ -5,8 +5,8 @@ This project is intended to design and build a counter for Grocery Store Counter
 
 ## Group Members
   This project is designed and implemented by : 
-  1. Odah Steady
-  2. Williams
+  1. Miete
+  2. Steady Williams
 
 ## Project Core Functionalities
   1. User SignUp/SignIn: User need to create account to make any kind of purchases but to check projects and other searches does not require user to be logged in. First user need to be get registered and logged in to check for recent activities, transactions, access e-wallet and items cart. For creating account user need to click on signup button fulfill all the create an account form requirement to get registered with us. In case your wants to be logged in, he need to go to sign in and provide its credentials which has been set up with us. In case user has forgot its password, we provide an module to regenerate a new password. The link for forgot module it can be found in sign in.
