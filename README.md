@@ -1,4 +1,3 @@
-![StackOverflow logo](https://www.stackoverflowbusiness.com/hubfs/B2B-SO/images/logo-so-PRINT-4.png)
 
 # Grocery-Store-Counter
 This project is intended to design and build a counter for Grocery Store Counter as part of our University Project. The system is well designed and implemented in java language framework for better utility. Moreover, this project is open for feature enhancements to incorporate new features in the furture as well. We had developed a sample in which user can search and find necessary information about any grocery item, can proceed to checkout to buy products. User can create an account, update personal information, can check its past activities, orders and transactions, and cart items.
