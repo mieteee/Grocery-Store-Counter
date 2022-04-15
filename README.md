@@ -22,7 +22,7 @@ This project is intended to design and build a counter for Grocery Store Counter
 
 
 
-## Additinal Features
+## Additional Features
   This Grocery Store comprises of the following main features.
   * Powerful Admin Dashboard.
   * Manage Category.
