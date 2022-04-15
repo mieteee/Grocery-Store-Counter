@@ -1,4 +1,4 @@
-Markup : ![grocery-store](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2F550x%2F21%2F58%2Fda%2F2158dae9f15ed0f81fe1057c19f18def.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fwsimic%2Fgrocery-store-logos%2F&tbnid=KlhoyT8fG2xn4M&vet=12ahUKEwjVl8f-zZX3AhVIdRQKHTuzBGEQMyggegUIARCuAg..i&docid=-toyXBbXua5m_M&w=550&h=388&q=grocery%20store%20logos&ved=2ahUKEwjVl8f-zZX3AhVIdRQKHTuzBGEQMyggegUIARCuAg)
+![StackOverflow logo](https://www.stackoverflowbusiness.com/hubfs/B2B-SO/images/logo-so-PRINT-4.png)
 
 # Grocery-Store-Counter
 This project is intended to design and build a counter for Grocery Store Counter as part of our University Project. The system is well designed and implemented in java language framework for better utility. Moreover, this project is open for feature enhancements to incorporate new features in the furture as well. We had developed a sample in which user can search and find necessary information about any grocery item, can proceed to checkout to buy products. User can create an account, update personal information, can check its past activities, orders and transactions, and cart items.
